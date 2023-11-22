@@ -206,9 +206,7 @@ display: flex;
   align-items: center;
   font-weight: 600;
 }
-.work-section-top1{
 
-}
 .testimonial-section-bottom{
   margin-top: 2rem;
   max-width: 750px;
@@ -354,9 +352,7 @@ font-size: 1.5rem;   }
 
     }
     .contact-form-container input{
-      /* height: 100%; */
       padding: 0.5rem 1rem !important;
-      /* flex: 1; */
       font-size: 1rem !important;
       max-width: 100%;
       margin-bottom: 0.8rem !important;
@@ -369,21 +365,18 @@ font-size: 1.5rem;   }
     }
 
   .footer-wrapper{
-    /*  */
     flex-direction: column;
   }
  
   
   
   .footer-section-two{
-       /*  */
     flex-direction: column;
     margin-top: 2rem;
 
   }
   .footer-section-columns{
     margin: 1rem 0rem;
-    /* min-width: 190px; */
   }
   
 }
